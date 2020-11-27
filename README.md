@@ -1,1 +1,1 @@
-# Dictionary_App_Mac_OS_Obj_c
+# Dictionary App Mac OS Objective c
